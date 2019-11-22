@@ -18,3 +18,6 @@ My hope is that this application will span past just being a project for this cl
 I believe this is one of the primary reasons VR exists: it is allowing us to explore spaces we don't have the physical capacity to recreate or travel to ourselves. 
 
 Due to limited funds, VOB cannot be in the production space for any more than 4 days before we have our opening night. So being able to see the space beforehand could be game-chainging for the set design process.
+
+
+**shameless plug:** *Into the Woods* goes on from January 16th through January 18th in Ingram Hall at Blair!
