@@ -11,6 +11,12 @@ Run `VOBSetDesign.exe` to begin the experience. *Note: It must be in the same fo
 
 All furniture can be freely grabbed and moved along their X and Z axes and rotates on all axes. This is meant to allow for easy repositioning and visualization of different set designs.
 
+![](library_set.png)
+This is the image the director gave me to recreate.
+
+![](screenshot_vr.png)
+This is a quick screenshot of the VR experience.
+
 **a) Why did you make this? Your intention or	motivation**
 
 I am currently a cast member in Vanderbilt Off-Broadway's (VOB) production of *Into the Woods* by Stephen Sondheim. I am close to the artistic and technical directors and they expressed their frustration that, due to the lack of permanent space on Vanderbilt's campus, it was impossible to view their set design until the week of the show.
