@@ -1,7 +1,9 @@
 # Set Visualization for Vanderbilt Off-Broadway's Production of Into the Woods
 ## Conner Pinson | Individual Project for CS3892
 
-This project was built on **Unity 2019.2.0f1**
+![](https://img.shields.io/badge/engine-Unity%202019.2.0f1-blue)
+![](https://img.shields.io/badge/language-c%20sharp-green)
+![](https://img.shields.io/badge/VR-Oculus%20Rift%2FRift%20S-orange)
 
 [Video Demo](https://drive.google.com/file/d/1dzuQ1vNJ7LxBYQA-Hy861tjeQnRZ0Fjm/view?usp=sharing)
 
